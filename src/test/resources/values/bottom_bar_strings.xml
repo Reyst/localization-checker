@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="str_my_tours">My tours</string>
+    <string name="str_tourists">Tourists</string>
+    <string name="str_inbox">Inbox</string>
+    <string name="str_profile_bn">Profile</string>
+    <string name="str_events">Events</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="str_my_tours">meine Reisen</string>
+    <string name="str_tourists">Reisende</string>
+    <string name="str_inbox">Inbox</string>
+    <string name="str_profile_bn">Profil</string>
+    <string name="str_events">Ereignisse</string>
+</resources>

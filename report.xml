@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings>
+    <file filename="bottom_bar_strings.xml">
+        <string default="Profile" name="str_profile_bn">
+            <translation language="values-de">Profil</translation>
+            <translation language="values-fr"/>
+            <translation language="values-fr-port"/>
+        </string>
+        <string default="Events" name="str_events">
+            <translation language="values-de">Ereignisse</translation>
+            <translation language="values-fr"/>
+            <translation language="values-fr-port"/>
+        </string>
+        <string default="My tours" name="str_my_tours">
+            <translation language="values-de">meine Reisen</translation>
+            <translation language="values-fr">Mes tours</translation>
+            <translation language="values-fr-port"/>
+        </string>
+        <string default="Inbox" name="str_inbox">
+            <translation language="values-de">Inbox</translation>
+            <translation language="values-fr"/>
+            <translation language="values-fr-port"/>
+        </string>
+        <string default="Tourists" name="str_tourists">
+            <translation language="values-de">Reisende</translation>
+            <translation language="values-fr">Touristes</translation>
+            <translation language="values-fr-port"/>
+        </string>
+    </file>
+</strings>
